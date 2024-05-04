@@ -3,7 +3,7 @@
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img src="https://github.com/Viv319/Viv319/assets/26425926/29d88106-8383-4f44-9760-b2751ccd8507">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Frontend+Developer;Full+Stack+Web+Developer;Hand+on+experience+in+Devop's;MERN+Stack+Developer">
+<img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Frontend+Developer;Full+Stack+Web+Developer;Hand+on+experience+in+Devop's;MERN+Stack+Developer" style="display: center;">
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/10b2d4e80487e1d9cd086ce8619e15740a1bd22c6462f6be13df93ee684deb7b/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
